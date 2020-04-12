@@ -71,3 +71,15 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+.idea/.gitignore
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/dataSources.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/vcs.xml
+mybatis-source-parent.iml
+mybatis-source/src/main/resources/prop.properties
+mybatis-source/src/test/
+mybatis-source/target/
+mybatis-spring-source/target/
